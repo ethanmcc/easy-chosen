@@ -1,0 +1,12 @@
+{
+  "name": "easy-chosen",
+  "version": "0.9.3",
+  "main": "chosen.jquery.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
